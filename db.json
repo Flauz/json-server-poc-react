@@ -1,0 +1,34 @@
+{
+    "widget": [
+        {
+            "acf_fc_layout": "carousel_panel",
+            "slides": [
+                {
+                    "panel_type": "effect_panel",
+                    "position": "left",
+                    "title": "box_panel",
+                    "text": "<p>Text</p>",
+                    "image_or_video": "Image",
+                    "image": {},
+                    "video": false,
+                    "link": [
+                        {
+                            "title": "link_title",
+                            "url": "https://club-sandbox-local.leoo-factory.io/productcategory/location/",
+                            "target": ""
+                        }
+                    ],
+                    "link_style": "Link_Style",
+                    "secondary_text": "",
+                    "secondary_link": "",
+                    "secondary_link_style": ""
+                }
+            ],
+            "slider_type": "swiper-parallax",
+            "slider_effect": "basic",
+            "slider_loop": true,
+            "slider_autoplay": "",
+            "slider_pagination": false
+        }
+    ]
+}

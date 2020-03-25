@@ -1,0 +1,16 @@
+.env
+
+# File system files
+.DS_Store
+*~
+.fuse*
+.idea
+
+# Nodes and Assets
+node_modules/
+npm-debug.log
+*.sass-cache*
+*compass_app_log.txt
+*.ignore
+yarn-error.log
+

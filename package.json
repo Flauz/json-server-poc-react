@@ -4,7 +4,7 @@
   "description": "After clone the repository, launch the command npm install",
   "main": "index.js",
   "scripts": {
-    "json:server": "json-server --watch test.json --port 3030"
+    "json:server": "json-server --watch db.json --port 3030"
   },
   "keywords": [],
   "author": "",

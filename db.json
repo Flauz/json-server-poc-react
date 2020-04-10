@@ -1,97 +1,97 @@
 {
-  "data": [
-      {
-          "menu": [
-              {
-                  "header": [
-                      {
-                          "page_template": "homepage",
-                          "url": "https://club-sandbox-local.leoo-factory.io/",
-                          "url_slug": "homepage"
-                      },
-                      {
-                          "page_template": "catalog",
-                          "url": "https://club-sandbox-local.leoo-factory.io/boutique",
-                          "url_slug": "catalog"
-                      },
-                      {
-                          "page_template": "faq",
-                          "url": "https://club-sandbox-local.leoo-factory.io/faq",
-                          "url_slug": "faq"
-                      }
-                  ]
-              },
-              {
-                  "footer": [
-                      {
-                          "page_template": "homepage",
-                          "url": "https://club-sandbox-local.leoo-factory.io/",
-                          "url_slug": "homepage"
-                      },
-                      {
-                          "page_template": "catalog",
-                          "url": "https://club-sandbox-local.leoo-factory.io/boutique",
-                          "url_slug": "catalog"
-                      },
-                      {
-                          "page_template": "faq",
-                          "url": "https://club-sandbox-local.leoo-factory.io/faq",
-                          "url_slug": "faq"
-                      }
-                  ]
-              }
-          ]
-      },
-      {
-          "widgets": [
-              {
-                  "acf_fc_layout": "heading",
-                  "title": "title",
-                  "subtitle": "subtitle",
-                  "intro": "",
-                  "image": false,
-                  "type": "Parallax",
-                  "heading_type": "h1",
-                  "align": "left",
-                  "class": "",
-                  "widget_style": ""
-              },
-              {
-                  "acf_fc_layout": "text",
-                  "text": "<p>Ceci est un texte</p>",
-                  "widget_style": "background_secondary dark"
-              },
-              {
-                  "acf_fc_layout": "carousel_panel",
-                  "slides": [
-                      {
-                          "panel_type": "effect_panel",
-                          "position": "left",
-                          "title": "box_panel",
-                          "text": "<p>Text</p>",
-                          "image_or_video": "Image",
-                          "image": {},
-                          "video": false,
-                          "link": [
-                              {
-                                  "title": "link_title",
-                                  "url": "https://club-sandbox-local.leoo-factory.io/productcategory/location/",
-                                  "target": ""
-                              }
-                          ],
-                          "link_style": "Link_Style",
-                          "secondary_text": "",
-                          "secondary_link": "",
-                          "secondary_link_style": ""
-                      }
-                  ],
-                  "slider_type": "swiper-parallax",
-                  "slider_effect": "basic",
-                  "slider_loop": true,
-                  "slider_autoplay": "",
-                  "slider_pagination": false
-              }
-          ]
-      }
-  ]
+    "data": [
+        {
+            "menu": [
+                {
+                    "header": [
+                        {
+                            "page_template": "homepage",
+                            "url": "https://club-sandbox-local.leoo-factory.io/",
+                            "url_slug": "homepage"
+                        },
+                        {
+                            "page_template": "catalog",
+                            "url": "https://club-sandbox-local.leoo-factory.io/boutique",
+                            "url_slug": "catalog"
+                        },
+                        {
+                            "page_template": "faq",
+                            "url": "https://club-sandbox-local.leoo-factory.io/faq",
+                            "url_slug": "faq"
+                        }
+                    ]
+                },
+                {
+                    "footer": [
+                        {
+                            "page_template": "homepage",
+                            "url": "https://club-sandbox-local.leoo-factory.io/",
+                            "url_slug": "homepage"
+                        },
+                        {
+                            "page_template": "catalog",
+                            "url": "https://club-sandbox-local.leoo-factory.io/boutique",
+                            "url_slug": "catalog"
+                        },
+                        {
+                            "page_template": "faq",
+                            "url": "https://club-sandbox-local.leoo-factory.io/faq",
+                            "url_slug": "faq"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "widgets": [
+                {
+                    "acf_fc_layout": "heading",
+                    "title": "title",
+                    "subtitle": "subtitle",
+                    "intro": "",
+                    "image": false,
+                    "type": "Parallax",
+                    "heading_type": "h1",
+                    "align": "left",
+                    "class": "",
+                    "widget_style": ""
+                },
+                {
+                    "acf_fc_layout": "text",
+                    "text": "<p>Ceci est un texte</p>",
+                    "widget_style": "background_secondary dark"
+                },
+                {
+                    "acf_fc_layout": "carousel_panel",
+                    "slides": [
+                        {
+                            "panel_type": "effect_panel",
+                            "position": "left",
+                            "title": "box_panel",
+                            "text": "<p>Text</p>",
+                            "image_or_video": "Image",
+                            "image": {},
+                            "video": false,
+                            "link": [
+                                {
+                                    "title": "link_title",
+                                    "url": "https://club-sandbox-local.leoo-factory.io/productcategory/location/",
+                                    "target": ""
+                                }
+                            ],
+                            "link_style": "Link_Style",
+                            "secondary_text": "",
+                            "secondary_link": "",
+                            "secondary_link_style": ""
+                        }
+                    ],
+                    "slider_type": "swiper-parallax",
+                    "slider_effect": "basic",
+                    "slider_loop": true,
+                    "slider_autoplay": "",
+                    "slider_pagination": false
+                }
+            ]
+        }
+    ]
 }

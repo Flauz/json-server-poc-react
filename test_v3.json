@@ -12,28 +12,22 @@
     },
     "pages": [
         {
-            "index": {
-                "title": "homepage",
-                "url": "/homepage",
-                "component": "Homepage",
-                "json_page_path": "http://localhost/page_home.json"
-            }
+            "title": "homepage",
+            "url": "/homepage",
+            "component": "Homepage",
+            "json_page_path": "http://localhost/page_home.json"
         },
         {
-            "faq": {
-                "title": "faq",
-                "url": "/faq",
-                "component": "Faq",
-                "json_page_path": "http://localhost/page_faq.json"
-            }
+            "title": "faq",
+            "url": "/faq",
+            "component": "Faq",
+            "json_page_path": "http://localhost/page_faq.json"
         },
         {
-            "mon-compte": {
-                "title": "mon compte",
-                "url": "/moncompte",
-                "component": "Moncompte",
-                "json_page_path": "http://localhost/page_moncompte.json"
-            }
+            "title": "mon compte",
+            "url": "/moncompte",
+            "component": "Moncompte",
+            "json_page_path": "http://localhost/page_moncompte.json"
         }
     ],
     "menu": {

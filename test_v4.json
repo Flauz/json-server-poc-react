@@ -1,0 +1,66 @@
+{
+    "config": {
+        "general_properties": {
+            "title": "My App"
+        },
+        "css_external_files": [
+            "https://preprod/..../moncsss.css"
+        ],
+        "json_files": {
+            "pages": "http://localhost:3032/routes"
+        }
+    },
+    "routes": {
+        "pages": [
+            {
+                "title": "homepage",
+                "url": "/homepage",
+                "component": "Homepage",
+                "json_page_path": "http://localhost/page_home.json"
+            },
+            {
+                "title": "faq",
+                "url": "/faq",
+                "component": "Faq",
+                "json_page_path": "http://localhost/page_faq.json"
+            },
+            {
+                "title": "mon compte",
+                "url": "/moncompte",
+                "component": "Moncompte",
+                "json_page_path": "http://localhost/page_moncompte.json"
+            }
+        ],
+        "menu": {
+            "header": [
+                "index",
+                "faq"
+            ],
+            "footer": [
+                "faq"
+            ]
+        }
+    },
+    "menu": {
+        "header": [
+            "index",
+            "faq"
+        ],
+        "footer": [
+            "faq"
+        ]
+    },
+    "page": {
+        "general_properties": {
+            "is_breadcrumb": true
+        },
+        "widgets": [
+            {
+                "widget_type": "push_title",
+                "widget_properties": {
+                    "title": "toot"
+                }
+            }
+        ]
+    }
+}

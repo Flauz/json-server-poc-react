@@ -7,7 +7,7 @@
             "https://preprod/..../moncsss.css"
         ],
         "json_files": {
-            "pages": "http://localhost:3030/pages"
+            "pages": "http://localhost:3032/routes"
         }
     },
     "pages": [
@@ -15,19 +15,19 @@
             "title": "homepage",
             "url": "/homepage",
             "component": "Homepage",
-            "json_page_path": "http://localhost/page_home.json"
+            "json_page_path": "http://localhost:3030/index"
         },
         {
             "title": "faq",
             "url": "/faq",
             "component": "Faq",
-            "json_page_path": "http://localhost/page_faq.json"
+            "json_page_path": "http://localhost:3030/faq"
         },
         {
             "title": "mon compte",
             "url": "/moncompte",
             "component": "Moncompte",
-            "json_page_path": "http://localhost/page_moncompte.json"
+            "json_page_path": "http://localhost:3030/moncompte"
         }
     ],
     "menu": {
@@ -39,7 +39,7 @@
             "faq"
         ]
     },
-    "page": {
+    "index": {
         "general_properties": {
             "is_breadcrumb": true
         },
@@ -49,7 +49,85 @@
                 "widget_properties": {
                     "title": "toot"
                 }
+            },
+            {
+                "acf_fc_layout": "heading",
+                "title": "Homepage",
+                "subtitle": "This is the homepage",
+                "intro": "",
+                "image": false,
+                "type": "Parallax",
+                "heading_type": "h1",
+                "align": "left",
+                "class": "",
+                "widget_style": ""
+            },
+            {
+                "acf_fc_layout": "text",
+                "text": "<p>Ceci est un texte</p>",
+                "widget_style": "background_secondary dark"
+            }
+        ]
+    },
+    "faq": {
+        "general_properties": {
+            "is_breadcrumb": true
+        },
+        "widgets": [
+            {
+                "widget_type": "push_title",
+                "widget_properties": {
+                    "title": "toot"
+                }
+            },
+            {
+                "acf_fc_layout": "heading",
+                "title": "Faq",
+                "subtitle": "subtitle",
+                "intro": "",
+                "image": false,
+                "type": "Parallax",
+                "heading_type": "h1",
+                "align": "left",
+                "class": "",
+                "widget_style": ""
+            },
+            {
+                "acf_fc_layout": "text",
+                "text": "<p>Ceci est un texte</p>",
+                "widget_style": "background_secondary dark"
+            }
+        ]
+    },
+    "moncompte": {
+        "general_properties": {
+            "is_breadcrumb": true
+        },
+        "widgets": [
+            {
+                "widget_type": "push_title",
+                "widget_properties": {
+                    "title": "toot"
+                }
+            },
+            {
+                "acf_fc_layout": "heading",
+                "title": "Mon compte",
+                "subtitle": "subtitle",
+                "intro": "",
+                "image": false,
+                "type": "Parallax",
+                "heading_type": "h1",
+                "align": "left",
+                "class": "",
+                "widget_style": ""
+            },
+            {
+                "acf_fc_layout": "text",
+                "text": "<p>Ceci est un texte</p>",
+                "widget_style": "background_secondary dark"
             }
         ]
     }
+    
 }

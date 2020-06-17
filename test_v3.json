@@ -46,9 +46,10 @@
         "widgets": [
             {
                 "widget_type": "push_title",
-                "widget_properties": {
-                    "title": "toot"
-                }
+                "title": "PushTitle Widget",
+                "title_type": "1",
+                "push_class": "classTitle"
+                
             },
             {
                 "acf_fc_layout": "heading",
@@ -76,9 +77,10 @@
         "widgets": [
             {
                 "widget_type": "push_title",
-                "widget_properties": {
-                    "title": "toot"
-                }
+                "title": "PushTitle Widget",
+                "title_type": "1",
+                "push_class": "classTitle"
+                
             },
             {
                 "acf_fc_layout": "heading",
@@ -106,9 +108,10 @@
         "widgets": [
             {
                 "widget_type": "push_title",
-                "widget_properties": {
-                    "title": "toot"
-                }
+                "title": "PushTitle Widget",
+                "title_type": "1",
+                "push_class": "classTitle"
+                
             },
             {
                 "acf_fc_layout": "heading",
@@ -126,6 +129,51 @@
                 "acf_fc_layout": "text",
                 "text": "<p>Ceci est un texte</p>",
                 "widget_style": "background_secondary dark"
+            },
+            {
+                "afc_fc_layout": "link",
+                "widget_style": "",
+                "link":{
+                    "url": "",
+                    "link_style": "",
+                    "link_title": "title"
+                },
+                "icon": "",
+                "position": "Center"
+            },
+            {
+                "acf_fc_layout": "video",
+                "widget_style": "",
+                "video_url": "",
+                "video_class": "",
+                "video_file": {
+                    "title": "title"
+                }
+            },
+            {
+                "afc_fc_layout": "text_image_panel",
+                "widget_style": "",
+                "image_position": "",
+                "widget_text_style": "",
+                "text": "text",
+                "title": "title",
+                "link": {
+                    "url": "",
+                    "title": "title"
+                },
+                "link_style": "",
+                "images": {
+                    "url": "",
+                    "alt": ""
+                }
+            },
+            {
+                "afc_fc_layout": "dividers",
+                "widget_style": "",
+                "divider_type": "Small",
+                "icon_position": "Middle",
+                "icon_type": "Border",
+                "icon": ""
             }
         ]
     }

@@ -216,6 +216,63 @@
                         "number_of_points": 36
                     }
                 ]
+            },
+            {
+                "afc_fc_layout": "table",
+                "table_type": [
+                    "Bordered",
+                    "Striped",
+                    "Hover",
+                    "Hightlight Head"
+                ],
+                "head": [
+                    {
+                        "cell": "Yo"
+                    },
+                    {
+                        "cell": "yp"
+                    },
+                    {
+                        "cell": "YO"
+                    },
+                    {
+                        "cell": "yo"
+                    }
+                ],
+                "body": [
+                    {
+                        "row": [
+                            {
+                                "cell": "Ya"
+                            },
+                            {
+                                "cell": "Ya"
+                            },
+                            {
+                                "cell": "Ya"
+                            },
+                            {
+                                "cell": "Ya"
+                            }
+                        ]
+                    },
+                    {
+                        "row": [
+                            {
+                                "cell": "bla"
+                            },
+                            {
+                                "cell": "bla"
+                            },
+                            {
+                                "cell": "bla"
+                            },
+                            {
+                                "cell": "bla"
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     },
@@ -334,7 +391,7 @@
                     "url": "https://leoo.fr/",
                     "text": "Texte du lien"
                 }
-            }            
+            }
         ]
     }
 }

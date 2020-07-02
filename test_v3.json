@@ -130,6 +130,39 @@
                     "url": "https://leoo.fr/",
                     "text": "Texte du lien"
                 }
+            },
+            {
+                "acf_fc_layout": "carousel_brand",
+                "title": "Carousel Brand",
+                "carousel": [
+                    {
+                        "link": {
+                            "url": "https://leoo.fr/"
+                        },
+                        "image": {
+                            "alt": "texte",
+                            "url": "https://mydigitalweek.com/wp-content/uploads/2020/04/Capture-d%E2%80%99%C3%A9cran-2020-04-17-%C3%A0-12.06.26-300x119.png"
+                        }
+                    },
+                    {
+                        "link": {
+                            "url": "https://leoo.fr/"
+                        },
+                        "image": {
+                            "alt": "texte",
+                            "url": "https://mydigitalweek.com/wp-content/uploads/2020/04/Capture-d%E2%80%99%C3%A9cran-2020-04-17-%C3%A0-12.06.26-300x119.png"
+                        }
+                    },
+                    {
+                        "link": {
+                            "url": "https://leoo.fr/"
+                        },
+                        "image": {
+                            "alt": "texte",
+                            "url": "https://mydigitalweek.com/wp-content/uploads/2020/04/Capture-d%E2%80%99%C3%A9cran-2020-04-17-%C3%A0-12.06.26-300x119.png"
+                        }
+                    }
+                ]
             }
         ]
     },
@@ -235,6 +268,19 @@
                 "icon_position": "Middle",
                 "icon_type": "Border",
                 "icon": ""
+            },
+            {
+                "afc_fc_layout": "box_promo",
+                "widget_style": "",
+                "image": {
+                    "url": "https://mydigitalweek.com/wp-content/uploads/2020/04/Capture-d%E2%80%99%C3%A9cran-2020-04-17-%C3%A0-12.06.26-300x119.png"
+                },
+                "title": "Widget BoxesPromo",
+                "text": "Texte du widget",
+                "link": {
+                    "url": "https://leoo.fr/",
+                    "text": "Texte du lien"
+                }
             }
         ]
     }

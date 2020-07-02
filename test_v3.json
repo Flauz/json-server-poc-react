@@ -132,35 +132,88 @@
                 }
             },
             {
-                "acf_fc_layout": "carousel_brand",
-                "title": "Carousel Brand",
+                "afc_fc_layout": "carousel_brand",
+                "widget_style": "",
+                "title": "Brand Carousel",
                 "carousel": [
                     {
                         "link": {
                             "url": "https://leoo.fr/"
                         },
                         "image": {
-                            "alt": "texte",
+                            "alt": "leoo",
                             "url": "https://mydigitalweek.com/wp-content/uploads/2020/04/Capture-d%E2%80%99%C3%A9cran-2020-04-17-%C3%A0-12.06.26-300x119.png"
                         }
                     },
                     {
                         "link": {
-                            "url": "https://leoo.fr/"
+                            "url": "https://thetribe.io/"
                         },
                         "image": {
-                            "alt": "texte",
-                            "url": "https://mydigitalweek.com/wp-content/uploads/2020/04/Capture-d%E2%80%99%C3%A9cran-2020-04-17-%C3%A0-12.06.26-300x119.png"
+                            "alt": "thetribe",
+                            "url": "https://www.dynamique-mag.com/wp-content/uploads/7d8a4e076236dd3eef5e2bebb21723c4-780x405.jpg"
+                        }
+                    }
+                ]
+            },
+            {
+                "afc_fc_layout": "boxes_card",
+                "widget_style": "",
+                "container": [
+                    {
+                        "front_image": "https://mydigitalweek.com/wp-content/uploads/2020/04/Capture-d%E2%80%99%C3%A9cran-2020-04-17-%C3%A0-12.06.26-300x119.png",
+                        "height": "Large",
+                        "front_color": "red",
+                        "front_icon": "",
+                        "front_title": "Titre 1",
+                        "front_text": "Texte 1",
+                        "direction": "Top To Bottom",
+                        "back_title": "Titre back",
+                        "back_link": {
+                            "url": "https://leoo.fr/",
+                            "title": "Leoo"
                         }
                     },
                     {
-                        "link": {
-                            "url": "https://leoo.fr/"
-                        },
-                        "image": {
-                            "alt": "texte",
-                            "url": "https://mydigitalweek.com/wp-content/uploads/2020/04/Capture-d%E2%80%99%C3%A9cran-2020-04-17-%C3%A0-12.06.26-300x119.png"
+                        "front_image": "https://www.dynamique-mag.com/wp-content/uploads/7d8a4e076236dd3eef5e2bebb21723c4-780x405.jpg",
+                        "front_color": "blue",
+                        "front_icon": "",
+                        "front_title": "Titre 2",
+                        "front_text": "Texte 2",
+                        "back_title": "Titre back 2",
+                        "back_link": {
+                            "url": "https://thetribe.io/",
+                            "title": "thetribe"
                         }
+                    }
+                ]
+            },
+            {
+                "afc_fc_layout": "performances",
+                "widget_style": "",
+                "background": {
+                    "url": "https://mydigitalweek.com/wp-content/uploads/2020/04/Capture-d%E2%80%99%C3%A9cran-2020-04-17-%C3%A0-12.06.26-300x119.png"
+                },
+                "title": "Widget Performances",
+                "subtitle": "subtitle",
+                "button": {
+                    "url": "https://leoo.fr/",
+                    "title": "leoo"
+                },
+                "performances": [
+                    {
+                        "background_color": "blue",
+                        "icon": "",
+                        "title": "perf1",
+                        "text": "text perf 1",
+                        "number_of_points": 12
+                    },
+                    {
+                        "background_color": "green",
+                        "icon": "",
+                        "title": "perf2",
+                        "text": "text perf 2",
+                        "number_of_points": 36
                     }
                 ]
             }
@@ -281,7 +334,7 @@
                     "url": "https://leoo.fr/",
                     "text": "Texte du lien"
                 }
-            }
+            }            
         ]
     }
 }

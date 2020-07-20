@@ -273,6 +273,43 @@
                         ]
                     }
                 ]
+            },
+            {
+                "acf_fc_layout": "faq",
+                "widget_style": "",
+                "questions" : [
+                    {
+                        "question_title" : "question_title_1",
+                        "subquestions" : [
+                            {
+                                "subquestion_title" : "subquestion_title_1",
+                                "subquestion_description" : "subquestion_description_1"
+                            },
+                            {
+                                "subquestion_title" : "subquestion_title_2",
+                                "subquestion_description" : "subquestion_description_2"
+                            }
+                        ]
+                    },
+                    {
+                        "question_title" : "question_title_2",
+                        "subquestions" : [
+                            {
+                                "subquestion_title" : "subquestion_title_1",
+                                "subquestion_description" : "subquestion_description_1"
+                            },
+                            {
+                                "subquestion_title" : "subquestion_title_2",
+                                "subquestion_description" : "subquestion_description_2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "options" : [
+            {
+                "site_version" : 3
             }
         ]
     },

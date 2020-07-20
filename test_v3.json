@@ -306,7 +306,12 @@
                     }
                 ]
             }
-        ]   
+        ],
+        "options" : [
+            {
+                "site_version" : 3
+            }
+        ]
     },
     "faq": {
         "general_properties": {

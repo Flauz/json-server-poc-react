@@ -51,7 +51,7 @@
                 "push_class": "classTitle"
             },
             {
-                "acf_fc_layout": "heading",
+                "afc_fc_layout": "heading",
                 "title": "Homepage",
                 "subtitle": "This is the homepage",
                 "intro": "",
@@ -63,7 +63,7 @@
                 "widget_style": ""
             },
             {
-                "acf_fc_layout": "text",
+                "afc_fc_layout": "text",
                 "text": "<p>Ceci est un texte</p>",
                 "widget_style": "background_secondary dark"
             },
@@ -79,7 +79,7 @@
                 "position": "Center"
             },
             {
-                "acf_fc_layout": "video",
+                "afc_fc_layout": "video",
                 "widget_style": "",
                 "video_url": "https://www.youtube.com/embed/R53hiPda3nk",
                 "video_class": "",
@@ -275,7 +275,7 @@
                 ]
             },
             {
-                "acf_fc_layout": "faq",
+                "afc_fc_layout": "faq",
                 "widget_style": "",
                 "questions" : [
                     {
@@ -325,7 +325,7 @@
                 "push_class": "classTitle"
             },
             {
-                "acf_fc_layout": "heading",
+                "afc_fc_layout": "heading",
                 "title": "Faq",
                 "subtitle": "subtitle",
                 "intro": "",
@@ -337,7 +337,7 @@
                 "widget_style": ""
             },
             {
-                "acf_fc_layout": "text",
+                "afc_fc_layout": "text",
                 "text": "<p>Ceci est un texte</p>",
                 "widget_style": "background_secondary dark"
             }
@@ -355,7 +355,7 @@
                 "push_class": "classTitle"
             },
             {
-                "acf_fc_layout": "heading",
+                "afc_fc_layout": "heading",
                 "title": "Mon compte",
                 "subtitle": "subtitle",
                 "intro": "",
@@ -367,7 +367,7 @@
                 "widget_style": ""
             },
             {
-                "acf_fc_layout": "text",
+                "afc_fc_layout": "text",
                 "text": "<p>Ceci est un texte</p>",
                 "widget_style": "background_secondary dark"
             },
@@ -383,7 +383,7 @@
                 "position": "Center"
             },
             {
-                "acf_fc_layout": "video",
+                "afc_fc_layout": "video",
                 "widget_style": "",
                 "video_url": "",
                 "video_class": "",

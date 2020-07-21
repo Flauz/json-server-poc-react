@@ -75,7 +75,7 @@
                     "link_style": "",
                     "link_title": "TITLE LINK"
                 },
-                "icon": "",
+                "icon": "fa fa-check",
                 "position": "Center"
             },
             {
@@ -116,7 +116,7 @@
                 "divider_type": "Small",
                 "icon_position": "Middle",
                 "icon_type": "Border",
-                "icon": ""
+                "icon": "fa fa-check"
             },
             {
                 "afc_fc_layout": "box_promo",
@@ -164,7 +164,7 @@
                         "front_image": "https://mydigitalweek.com/wp-content/uploads/2020/04/Capture-d%E2%80%99%C3%A9cran-2020-04-17-%C3%A0-12.06.26-300x119.png",
                         "height": "Large",
                         "front_color": "red",
-                        "front_icon": "",
+                        "front_icon": "fa fa-check",
                         "front_title": "Titre 1",
                         "front_text": "Texte 1",
                         "direction": "Top To Bottom",
@@ -177,7 +177,7 @@
                     {
                         "front_image": "https://www.dynamique-mag.com/wp-content/uploads/7d8a4e076236dd3eef5e2bebb21723c4-780x405.jpg",
                         "front_color": "blue",
-                        "front_icon": "",
+                        "front_icon": "fa fa-check",
                         "front_title": "Titre 2",
                         "front_text": "Texte 2",
                         "back_title": "Titre back 2",
@@ -203,14 +203,14 @@
                 "performances": [
                     {
                         "background_color": "blue",
-                        "icon": "",
+                        "icon": "fa fa-check",
                         "title": "perf1",
                         "text": "text perf 1",
                         "number_of_points": 12
                     },
                     {
                         "background_color": "green",
-                        "icon": "",
+                        "icon": "fa fa-check",
                         "title": "perf2",
                         "text": "text perf 2",
                         "number_of_points": 36
@@ -311,7 +311,7 @@
             {
                 "site_version" : 3
             }
-        ]
+        ]   
     },
     "faq": {
         "general_properties": {
@@ -379,7 +379,7 @@
                     "link_style": "",
                     "link_title": "TITLE LINK"
                 },
-                "icon": "",
+                "icon": "fa fa-check",
                 "position": "Center"
             },
             {
@@ -414,7 +414,7 @@
                 "divider_type": "Small",
                 "icon_position": "Middle",
                 "icon_type": "Border",
-                "icon": ""
+                "icon": "fa fa-check"
             },
             {
                 "afc_fc_layout": "box_promo",

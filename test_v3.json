@@ -277,41 +277,83 @@
             {
                 "afc_fc_layout": "faq",
                 "widget_style": "",
-                "questions" : [
+                "questions": [
                     {
-                        "question_title" : "question_title_1",
-                        "subquestions" : [
+                        "question_title": "question_title_1",
+                        "subquestions": [
                             {
-                                "subquestion_title" : "subquestion_title_1",
-                                "subquestion_description" : "subquestion_description_1"
+                                "subquestion_title": "subquestion_title_1",
+                                "subquestion_description": "subquestion_description_1"
                             },
                             {
-                                "subquestion_title" : "subquestion_title_2",
-                                "subquestion_description" : "subquestion_description_2"
+                                "subquestion_title": "subquestion_title_2",
+                                "subquestion_description": "subquestion_description_2"
                             }
                         ]
                     },
                     {
-                        "question_title" : "question_title_2",
-                        "subquestions" : [
+                        "question_title": "question_title_2",
+                        "subquestions": [
                             {
-                                "subquestion_title" : "subquestion_title_1",
-                                "subquestion_description" : "subquestion_description_1"
+                                "subquestion_title": "subquestion_title_1",
+                                "subquestion_description": "subquestion_description_1"
                             },
                             {
-                                "subquestion_title" : "subquestion_title_2",
-                                "subquestion_description" : "subquestion_description_2"
+                                "subquestion_title": "subquestion_title_2",
+                                "subquestion_description": "subquestion_description_2"
                             }
                         ]
                     }
                 ]
+            },
+            {
+                "afc_fc_layout": "carousel_panel",
+                "widget_style": "",
+                "slider_type": "",
+                "slides": [
+                    {
+                        "image_or_video": "Image",
+                        "panel_type": "box_panel",
+                        "image": {
+                            "url": ""
+                        },
+                        "video": {
+                            "url": ""
+                        },
+                        "text": "",
+                        "title": "",
+                        "position": "center",
+                        "link": {
+                            "url": "",
+                            "title": ""
+                        },
+                        "link_style": "",
+                        ""
+                    }
+                ],
+                "slider_loop": "",
+                "slider_autoplay": "",
+                "slider_pagination": ""
+            },
+            {
+                "afc_fc_layout": "modal_tuto",
+                "title": "",
+                "slides": [
+                    {
+                        "image": {
+                            "url": ""
+                        },
+                        "text": ""
+                    }
+                ],
+                "button": ""
             }
         ],
-        "options" : [
+        "options": [
             {
-                "site_version" : 3
+                "site_version": 3
             }
-        ]   
+        ]
     },
     "faq": {
         "general_properties": {

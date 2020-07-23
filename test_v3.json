@@ -309,19 +309,20 @@
             {
                 "afc_fc_layout": "carousel_panel",
                 "widget_style": "",
-                "slider_type": "",
+                "slider_type": "basic",
                 "slides": [
                     {
                         "image_or_video": "Image",
                         "panel_type": "box_panel",
                         "image": {
-                            "url": ""
+                            "url": "https://mydigitalweek.com/wp-content/uploads/2020/04/Capture-d%E2%80%99%C3%A9cran-2020-04-17-%C3%A0-12.06.26-300x119.png"
+                            
                         },
                         "video": {
                             "url": ""
                         },
-                        "text": "",
-                        "title": "",
+                        "text": "Text",
+                        "title": "Title",
                         "position": "center",
                         "link": {
                             "url": "",
@@ -333,13 +334,14 @@
                         "image_or_video": "Image",
                         "panel_type": "box_panel",
                         "image": {
-                            "url": ""
+                        "url": "https://nsa40.casimages.com/img/2020/06/18/200618123655460108.jpg"
+                        
                         },
                         "video": {
                             "url": ""
                         },
-                        "text": "",
-                        "title": "",
+                        "text": "TextCarousel",
+                        "title": "TitleCarousel",
                         "position": "center",
                         "link": {
                             "url": "",
@@ -354,16 +356,22 @@
             },
             {
                 "afc_fc_layout": "modal_tuto",
-                "title": "",
+                "title": "Title",
                 "slides": [
                     {
                         "image": {
                             "url": ""
                         },
-                        "text": ""
+                        "text": "text1"
+                    },
+                    {
+                        "image": {
+                            "url": ""
+                        },
+                        "text": "text2"
                     }
                 ],
-                "button": ""
+                "button": "Button"
             },
             {
                 "afc_fc_layout": "boxes",
@@ -374,7 +382,7 @@
                         "color": "",
                         "link": {
                             "url": "",
-                            "title": ""
+                            "title": "TitleLink"
                         },
                         "image": {
                             "url": "",
@@ -382,12 +390,12 @@
                         },
                         "link_style": "",
                         "icon": "",
-                        "title": "",
-                        "subtitle": "",
-                        "text": ""
+                        "title": "Title",
+                        "subtitle": "Subtitle",
+                        "text": "text"
                     }
                 ],
-                "type": ""
+                "type": "Center Icon Boxes"
             }
         ],
         "options": [

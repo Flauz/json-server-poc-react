@@ -327,8 +327,25 @@
                             "url": "",
                             "title": ""
                         },
-                        "link_style": "",
-                        ""
+                        "link_style": ""
+                    },
+                    {
+                        "image_or_video": "Image",
+                        "panel_type": "box_panel",
+                        "image": {
+                            "url": ""
+                        },
+                        "video": {
+                            "url": ""
+                        },
+                        "text": "",
+                        "title": "",
+                        "position": "center",
+                        "link": {
+                            "url": "",
+                            "title": ""
+                        },
+                        "link_style": ""
                     }
                 ],
                 "slider_loop": "",
@@ -347,6 +364,30 @@
                     }
                 ],
                 "button": ""
+            },
+            {
+                "afc_fc_layout": "boxes",
+                "boxes": [
+                    {
+                        "icon_shape": "",
+                        "icon_color": "",
+                        "color": "",
+                        "link": {
+                            "url": "",
+                            "title": ""
+                        },
+                        "image": {
+                            "url": "",
+                            "alt": ""
+                        },
+                        "link_style": "",
+                        "icon": "",
+                        "title": "",
+                        "subtitle": "",
+                        "text": ""
+                    }
+                ],
+                "type": ""
             }
         ],
         "options": [

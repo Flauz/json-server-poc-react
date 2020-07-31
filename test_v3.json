@@ -316,7 +316,6 @@
                         "panel_type": "box_panel",
                         "image": {
                             "url": "https://mydigitalweek.com/wp-content/uploads/2020/04/Capture-d%E2%80%99%C3%A9cran-2020-04-17-%C3%A0-12.06.26-300x119.png"
-                            
                         },
                         "video": {
                             "url": ""
@@ -334,8 +333,7 @@
                         "image_or_video": "Image",
                         "panel_type": "box_panel",
                         "image": {
-                        "url": "https://nsa40.casimages.com/img/2020/06/18/200618123655460108.jpg"
-                        
+                            "url": "https://nsa40.casimages.com/img/2020/06/18/200618123655460108.jpg"
                         },
                         "video": {
                             "url": ""
@@ -396,6 +394,90 @@
                     }
                 ],
                 "type": "Center Icon Boxes"
+            },
+            {
+                "afc_fc_layout": "portfolio",
+                "widget_style": "",
+                "widget_full_size": "",
+                "slider_mode": "",
+                "columns": "",
+                "portfolio_no_overlay": "",
+                "portfolio_items": [
+                    [
+                        {
+                            "image": {
+                                "url": ""
+                            }
+                        },
+                        {
+                            "title": ""
+                        },
+                        {
+                            "subtitle": ""
+                        },
+                        {
+                            "link": {
+                                "url": ""
+                            }
+                        }
+                    ],
+                    {
+                        "post": {
+                            "id": "",
+                            "meta": {
+                                "category_image": {
+                                    "url": ""
+                                }
+                            }
+                        },
+                        "image": {
+                            "url": ""
+                        },
+                        "title": "",
+                        "subtitle": "",
+                        "link": {
+                            "url": ""
+                        }
+                    }
+                ],
+                "automatic_portfolio_items": [
+                    {
+                        "post": {
+                            "id": "",
+                            "meta": {
+                                "category_image": {
+                                    "url": ""
+                                }
+                            }
+                        },
+                        "image": {
+                            "url": ""
+                        },
+                        "title": "",
+                        "subtitle": "",
+                        "link": {
+                            "url": ""
+                        }
+                    },
+                    {
+                        "post": {
+                            "id": "",
+                            "meta": {
+                                "category_image": {
+                                    "url": ""
+                                }
+                            }
+                        },
+                        "image": {
+                            "url": ""
+                        },
+                        "title": "",
+                        "subtitle": "",
+                        "link": {
+                            "url": ""
+                        }
+                    }
+                ]
             }
         ],
         "options": [

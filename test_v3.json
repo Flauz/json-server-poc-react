@@ -327,8 +327,7 @@
                             "url": "",
                             "title": ""
                         },
-                        "link_style": "",
-                        ""
+                        "link_style": ""
                     }
                 ],
                 "slider_loop": "",
@@ -347,6 +346,10 @@
                     }
                 ],
                 "button": ""
+            },
+            {
+                "afc_fc_layout": "push_sitemap",
+                "widget_style": "test"
             }
         ],
         "options": [
@@ -470,6 +473,34 @@
                     "url": "https://leoo.fr/",
                     "text": "Texte du lien"
                 }
+            },
+            {
+                "afc_fc_layout": "push_articles",
+                "widget_style": "",
+                "title" : "title",
+                "title_style" : "title_style",
+                "display_type" : "grid",
+                "display_type_column" : "2",
+                "articles" : [
+                    {
+                        "post" : [
+                            {
+                                "meta" : [{
+
+                                    "title" : "post_title",
+                                    "author" : "author",
+                                    "date" : "01/01/2000",
+                                    "link" : "post_link",
+                                    "article_header" : "post_article_header",
+                                    "categories" : [{
+                                        "name" : "category_name"
+                                    }]
+                                }]
+                            }
+                        ]
+                    }
+                ]
+
             }
         ]
     }
